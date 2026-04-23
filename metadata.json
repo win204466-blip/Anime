@@ -1,0 +1,6 @@
+{
+  "name": "Live VTuber Avatar",
+  "description": "Anime character avatar that tracks your facial expressions and head movements using the webcam.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
